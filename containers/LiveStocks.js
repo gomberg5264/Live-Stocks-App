@@ -21,7 +21,7 @@ class LiveStocks extends Component {
 
 		// Connection opened
 		this.socket.addEventListener('open', event => {
-			this.socket.send('Hello Server!')
+			this.socket.send('Web Socket connection now opend !!')
 		})
 
 		// Listen for messages

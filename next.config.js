@@ -1,5 +1,4 @@
 module.exports = {
-	target: 'serverless',
 	webpack: (config, { dev }) => {
 		config.module.rules.push({
 			test: /\.scss/,

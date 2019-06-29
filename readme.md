@@ -1,6 +1,6 @@
 # LIVESTOCKS
 
-A LiveStocks app with real-time stock data using react, redux
+A live stocks app with real-time stock data using react, redux
 
 ![liveStocks](./live-stock-app.png)
 
