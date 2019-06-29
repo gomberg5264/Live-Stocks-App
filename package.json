@@ -23,7 +23,8 @@
 	"scripts": {
 		"dev": "node server",
 		"build": "next build",
-		"start": "NODE_ENV=production node server"
+		"start": "NODE_ENV=production node server",
+		"now-build": "next build"
 	},
 	"engines": {
 		"node": ">= 12.3.1",
