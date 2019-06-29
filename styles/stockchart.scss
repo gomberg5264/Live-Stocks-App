@@ -1,0 +1,30 @@
+.stockchart {
+    position: relative;
+    width: 55%;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #fff;
+    overflow: auto;
+    .price {
+        font-size: 28px;
+        margin: 20px;
+        padding: 0 20px;
+        word-spacing: 16px;
+        text-align: center;
+        color: #030c1d
+    }
+
+    .chart {
+        width: 100%;
+    }
+
+    .about {
+        width: 100%;
+
+        h1 {
+            font-size: 28px;
+            margin: 20px;
+            padding: 0 20px;
+            color: #0f47e2;
+        }
+    }
+}

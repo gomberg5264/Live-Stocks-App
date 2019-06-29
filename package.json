@@ -1,0 +1,34 @@
+{
+	"name": "stocks-app",
+	"version": "1.0.0",
+	"description": "Single Page App to display live stock data",
+	"license": "MIT",
+	"dependencies": {
+		"next": "^8.0.0",
+		"next-redux-wrapper": "^2.0.0",
+		"node-sass": "^4.9.3",
+		"normalize-scss": "^7.0.1",
+		"prop-types": "^15.7.2",
+		"react": "^16.8.1",
+		"react-apexcharts": "^1.3.1",
+		"react-dom": "^16.8.1",
+		"react-redux": "^6.0.0",
+		"redux": "^3.7.2",
+		"sass-loader": "^7.1.0",
+		"styled-jsx": "^3.2.1",
+		"styled-jsx-css-loader": "^0.3.0",
+		"apexcharts": "^3.6.4",
+		"isomorphic-fetch": "^2.2.1"
+	},
+	"scripts": {
+		"dev": "node server",
+		"build": "next build",
+		"start": "NODE_ENV=production node server"
+	},
+	"engines": {
+		"node": ">= 12.3.1",
+		"npm": ">=6.9.0"
+	},
+	"main": "server.js",
+	"author": "Himanshu Pandey <himanshup895@gmail.com>"
+}
