@@ -15,15 +15,10 @@ LiveStocks is an application, where a user can view stocks with real time values
 - Styling with SASS
 - Data visualization using Apexcharts
 
-## Getting started
+## Installation
 
-```
-use node 12.3.1 or greater than(i.e. nvm use v12.3.1)
-git clone https://github.com/HimanshuP90/-Live-Stocks-App
-cd Live-Stocks-App
-npm install
-npm run build
-npm run start
-```
-
-Then open `http://localhost:3000/` to see your app.
+- git clone https://github.com/HimanshuP90/Live-Stocks-App.git
+- nvm use v12.3.1 or greater
+- npm install
+- npm run start
+- open `http://localhost:3000/` to see your live app
