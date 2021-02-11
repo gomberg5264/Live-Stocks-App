@@ -17,7 +17,7 @@
 		"sass-loader": "^7.1.0",
 		"styled-jsx": "^3.2.1",
 		"styled-jsx-css-loader": "^0.3.0",
-		"apexcharts": "^3.6.4",
+		"apexcharts": "^3.24.0",
 		"isomorphic-fetch": "^2.2.1"
 	},
 	"scripts": {
